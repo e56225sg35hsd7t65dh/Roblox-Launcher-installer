@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\RobloxOptimizerLauncher.exe
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\RobloxOptimizerLauncher.deps.json
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\RobloxOptimizerLauncher.runtimeconfig.json
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\RobloxOptimizerLauncher.dll
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\RobloxOptimizerLauncher.pdb
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.sourcelink.json
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.dll
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\refint\RobloxOptimizerLauncher.dll
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.pdb
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\RobloxOptimizerLauncher.genruntimeconfig.cache
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\obj\Release\net10.0-windows\ref\RobloxOptimizerLauncher.dll

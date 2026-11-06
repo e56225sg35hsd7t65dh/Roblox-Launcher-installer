@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\win-x64\publish\RobloxOptimizerLauncher.pdb
+C:\Users\Admin\Desktop\RobloxOptimizerLauncher\bin\Release\net10.0-windows\win-x64\publish\RobloxOptimizerLauncher.exe
